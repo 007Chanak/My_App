@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+      "moment": "^2.0.0",
+      "expo-calendar": "~10.1.1",
+      "expo-constants": "~13.0.2",
+      "react-calendar": "*",
+      "expo-status-bar": "~1.2.0",
+      "react-navigation": "*",
+      "@expo/vector-icons": "^12.0.0",
+      "react-native-paper": "4.9.2",
+      "@react-navigation/native": "^3.8.4",
+      "react-native-calendar-picker": "*",
+      "react-native-dropdown-picker": "*",
+      "react-native-responsive-fontsize": "*"
+    }
+  }
